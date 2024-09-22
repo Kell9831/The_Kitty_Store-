@@ -1,0 +1,12 @@
+/* Estilos para cada tarjeta de gatito */
+img{
+    width: 600px;
+}
+
+h2.even {
+    color: var(--christalle);
+  }
+  
+h2.odd {
+    color: var(--magenta); 
+}
